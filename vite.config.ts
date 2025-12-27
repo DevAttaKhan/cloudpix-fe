@@ -8,7 +8,7 @@ export default defineConfig({
     port: 3000, // or your preferred port
     strictPort: true,
     allowedHosts: [
-      "cloudpix-fee-btggeqczhac3d6at.switzerlandnorth-01.azurewebsites.net",
+      "fe-cloudpix-h6fphjc3cdgqgbbq.southeastasia-01.azurewebsites.net",
       "localhost",
     ],
   },
