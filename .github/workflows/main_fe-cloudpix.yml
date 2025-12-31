@@ -32,6 +32,6 @@ jobs:
       - name: Deploy to Azure Web App
         uses: azure/webapps-deploy@v3
         with:
-          app-name: "fe-cloudpix"
-          slot-name: "Production"
+          app-name: "cloudpix"
+          slot-name: "Production-fee"
           package: .
